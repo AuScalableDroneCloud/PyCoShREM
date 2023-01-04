@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="PyCoShREM",
-    version="0.0.2",
+    version="0.0.3",
     description="Complex shearlet based edge and ridge measurement",
     author="RG Computational Data Analysis, University Bremen: Rafael Reisenhofer, Jonas Wloka",
     author_email='reisenhofer@math.uni-bremen.de',
